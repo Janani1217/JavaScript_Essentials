@@ -1,8 +1,0 @@
-1. Differences between HTTP1.1 and HTTP2: 
-https://jananisai1217.medium.com/difference-between-http1-1-vs-http2-90daa85eba
-
-2. Write a write up on Difference between copy by value and copy by reference.
-https://jananisai1217.medium.com/difference-between-copy-by-value-and-copy-by-reference-428f56898d01
-
-3.How to copy by value a composite datatype (array+objects)
-https://medium.com/my-interest/how-do-you-copy-by-value-a-composite-data-type-in-js-203b493640f9
